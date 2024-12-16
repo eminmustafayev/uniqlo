@@ -1,0 +1,68 @@
+﻿@model uniqilo.ViewModel.Product.ProductUpdateVM
+
+@{
+	ViewData["Title"] = "Update";
+}
+<div class="container-fluid">
+
+	<!-- Page Heading -->
+	<h1 class="h3 mb-4 text-gray-800">Update Product</h1>
+	<a asp-action="Index" asp-controller="Product" class="btn btn-outline-primary ml-auto">Return List</a>
+	<form method="post" enctype="multipart/form-data">
+		<div class="form-group">
+			<label asp-for="ProductName"></label>
+			<input asp-for="ProductName" class="form-control">
+			<span asp-validation-for="ProductName" class="text-small text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="ProductDescription"></label>
+			<input asp-for="ProductDescription" class="form-control">
+			<span asp-validation-for="ProductDescription" class="text-small text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="CostPrice"></label>
+			<input asp-for="CostPrice" class="form-control">
+			<span asp-validation-for="CostPrice" class="text-small text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="SellPrice"></label>
+			<input asp-for="SellPrice" class="form-control">
+			<span asp-validation-for="SellPrice" class="text-small text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Quantity"></label>
+			<input asp-for="Quantity" class="form-control">
+			<span asp-validation-for="Quantity" class="text-small text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Discount"></label>
+			<input asp-for="Discount" class="form-control">
+			<span asp-validation-for="Discount" class="text-small text-danger"></span>
+		</div>
+		<div class="form-group">
+			<img asp-append-version="true" width="160px" class="m-2" src="~/img/products/@Model.ImageUrl" />
+			<input asp-for="ImageUrl" type="hidden" />
+			<input asp-for="CoverImage" class="form-control">
+			<span asp-validation-for="CoverImage" class="text-small text-danger"></span>
+		</div>		
+		<div class="form-group">
+			<label asp-for="CategoryID"></label>
+			<select asp-for="CategoryID" class="form-control">
+				<option selected disabled>Select Category</option>
+				@foreach (var item in ViewBag.Categories)
+				{
+					@if (item != null)
+					{
+						<option value="@item.Id">@item.CategoryName</option>
+					}
+					else
+					{
+						<option disabled>Invalid Category</option>
+					}
+				}
+			</select>
+			<span asp-validation-for="CategoryID" class="text-small text-danger"></span>
+		</div>
+		<button type="submit" class="btn btn-primary">Submit</button>
+	</form>
+</div>

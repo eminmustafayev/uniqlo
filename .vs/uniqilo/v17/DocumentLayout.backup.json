@@ -1,74 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\uniqilo\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Migrations\\20241216071902_men_inek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uniqilo\\Migrations\\20241216071902_men_inek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\viewmodel\\comment\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\viewmodel\\comment\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\extension\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\extension\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\dataacces\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\dataacces\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\controllers\\_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\helpers\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\helpers\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\helpers\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\source\\repos\\uniqilo\\uniqilo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\viewmodel\\comment\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\viewmodel\\comment\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\migrations\\20241215114318_created_prodimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\migrations\\20241215114318_created_prodimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\migrations\\20241216071902_men_inek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\migrations\\20241216071902_men_inek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|c:\\users\\user\\desktop\\unigga\\uniqilo\\uniqilo\\dataacces\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC3BE1-32AA-48BF-9753-AE49721D5B48}|uniqilo\\uniqilo.csproj|solutionrelative:uniqilo\\dataacces\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,31 +106,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Program.cs",
               "RelativeDocumentMoniker": "uniqilo\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Program.cs",
               "RelativeToolTip": "uniqilo\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:00:24.996Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Views\\Product\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "uniqilo\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "uniqilo\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAcwKsAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAEMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-15T10:17:12.533Z",
               "IsPinned": true,
@@ -110,195 +137,269 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241216071902_men_inek.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Migrations\\20241216071902_men_inek.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Migrations\\20241216071902_men_inek.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Migrations\\20241216071902_men_inek.cs",
-              "RelativeToolTip": "uniqilo\\Migrations\\20241216071902_men_inek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:19:02.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\User.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\User.cs",
-              "RelativeToolTip": "uniqilo\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:55:03.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\Comment.cs",
-              "RelativeToolTip": "uniqilo\\Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:54:33.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommentVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\ViewModel\\Comment\\CommentVM.cs",
-              "RelativeDocumentMoniker": "uniqilo\\ViewModel\\Comment\\CommentVM.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\ViewModel\\Comment\\CommentVM.cs",
-              "RelativeToolTip": "uniqilo\\ViewModel\\Comment\\CommentVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:27:24.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241215114318_Created_ProdImages.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
-              "RelativeToolTip": "uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:43:18.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\appsettings.json",
-              "RelativeDocumentMoniker": "uniqilo\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\appsettings.json",
-              "RelativeToolTip": "uniqilo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-15T11:37:39.586Z",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "uniqilo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "uniqilo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkBAAAAAAAAAAAUwEMBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:30:20.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductImages.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\ProductImages.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Models\\ProductImages.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\ProductImages.cs",
-              "RelativeToolTip": "uniqilo\\Models\\ProductImages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:34:35.244Z",
-              "EditorCaption": ""
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "uniqilo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "uniqilo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:51:09.225Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\DataAcces\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "uniqilo\\DataAcces\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\DataAcces\\AppDbContext.cs",
-              "RelativeToolTip": "uniqilo\\DataAcces\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "uniqilo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\appsettings.Development.json",
+              "RelativeToolTip": "uniqilo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T06:29:58.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "uniqilo\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:33:42.488Z",
+              "WhenOpened": "2024-12-18T06:32:49.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "uniqilo\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:03:45.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "uniqilo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "uniqilo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:01:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Enums\\Roles.cs",
+              "RelativeToolTip": "uniqilo\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:57:08.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Models\\Product.cs",
-              "RelativeToolTip": "uniqilo\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "SeedExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Extension\\SeedExtension.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Extension\\SeedExtension.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Extension\\SeedExtension.cs",
+              "RelativeToolTip": "uniqilo\\Extension\\SeedExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:33:02.423Z",
+              "WhenOpened": "2024-12-16T13:55:42.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "uniqilo\\Controllers\\ContactController.cs",
+              "DocumentIndex": 20,
+              "Title": "20241216071902_men_inek.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Migrations\\20241216071902_men_inek.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Migrations\\20241216071902_men_inek.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Migrations\\20241216071902_men_inek.cs",
+              "RelativeToolTip": "uniqilo\\Migrations\\20241216071902_men_inek.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:16:18.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T07:19:02.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "uniqilo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "uniqilo\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T10:53:56.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_context.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\_context.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Controllers\\_context.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\_context.cs",
-              "RelativeToolTip": "uniqilo\\Controllers\\_context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\User.cs",
+              "RelativeToolTip": "uniqilo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:06:59.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "uniqilo\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T09:59:11.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T06:55:03.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "SmtpOptions.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Helpers\\SmtpOptions.cs",
-              "RelativeDocumentMoniker": "uniqilo\\Helpers\\SmtpOptions.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Helpers\\SmtpOptions.cs",
-              "RelativeToolTip": "uniqilo\\Helpers\\SmtpOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\Comment.cs",
+              "RelativeToolTip": "uniqilo\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:15:43.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T06:54:33.08Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "CommentVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\ViewModel\\Comment\\CommentVM.cs",
+              "RelativeDocumentMoniker": "uniqilo\\ViewModel\\Comment\\CommentVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\ViewModel\\Comment\\CommentVM.cs",
+              "RelativeToolTip": "uniqilo\\ViewModel\\Comment\\CommentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:27:24.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241215114318_Created_ProdImages.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
+              "RelativeToolTip": "uniqilo\\Migrations\\20241215114318_Created_ProdImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:43:18.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\appsettings.json",
+              "RelativeDocumentMoniker": "uniqilo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\appsettings.json",
+              "RelativeToolTip": "uniqilo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T11:37:39.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Models\\ProductImages.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\ProductImages.cs",
+              "RelativeToolTip": "uniqilo\\Models\\ProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:34:35.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\DataAcces\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "uniqilo\\DataAcces\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\DataAcces\\AppDbContext.cs",
+              "RelativeToolTip": "uniqilo\\DataAcces\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Models\\Product.cs",
+              "RelativeToolTip": "uniqilo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:02.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "uniqilo\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:16:18.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "uniqilo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "uniqilo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:53:56.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "uniqilo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:59:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmtpOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Helpers\\SmtpOptions.cs",
+              "RelativeDocumentMoniker": "uniqilo\\Helpers\\SmtpOptions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Helpers\\SmtpOptions.cs",
+              "RelativeToolTip": "uniqilo\\Helpers\\SmtpOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:15:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "uniqilo\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\uniqilo\\uniqilo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\unigga\\uniqilo\\uniqilo\\Controllers\\AccountController.cs",
               "RelativeToolTip": "uniqilo\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAcwGYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwGAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T13:53:30.436Z",
               "EditorCaption": ""

@@ -1,6 +1,6 @@
 ﻿@model Product
-
 @{
+    Layout = "_Layout";
     ViewData["Title"] = Model.ProductName;
 }
 <!-- End Offset Wrapper -->
@@ -34,21 +34,21 @@
                     <ul class="nav product__small_images" role="tablist">
                         <li role="presentation" class="pot-small-img">
                             <a href="#img-tab" role="tab" data-bs-toggle="tab">
-                                <img src="~/imgs/products/@Model.CoverImage" alt="small-image">
+                                <img src="~/img/products/@Model.CoverImage" alt="small-image">
                             </a>
                         </li>
-                        @foreach (var item in Model.Images?.Select(x => x.ImageUrl) ?? [])
+                        @* @foreach (var item in Model.Images?.Select(x => x.ImageUrl) ?? [])
                         {
                             <li role="presentation" class="pot-small-img">
                                 <a href="#img-tab" role="tab" data-bs-toggle="tab">
                                     <img src="~/imgs/products/@item" alt="small-image">
                                 </a>
                             </li>
-                        }
+                        } *@
                     </ul>
 
                     <!-- End Small images -->
-                    <div class="product__big__images">
+                   @*  <div class="product__big__images">
                         <div class="portfolio-full-image tab-content">
                             <div role="tabpanel" class="tab-pane active" id="img-tab-1">
                                 <img src="images/product-details/big-img/1.jpg" alt="full-image">
@@ -63,13 +63,13 @@
                                 <img src="images/product-details/big-img/1.jpg" alt="full-image">
                             </div>
                         </div>
-                    </div>
+                    </div> *@
                 </div>
             </div>
             <div class="col-md-12 col-lg-6 col-sm-12 smt-30 xmt-30">
                 <div class="htc__product__details__inner">
                     <div class="pro__detl__title">
-                        <h2>Black Clock</h2>
+                        <h2>@Model.ProductName</h2>
                     </div>
                     <div class="pro__dtl__rating">
                         <ul class="pro__rating">
@@ -82,11 +82,11 @@
                         <span class="rat__qun">(Based on 0 Ratings)</span>
                     </div>
                     <div class="pro__details">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod temf incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, nostr exercitation ullamco laboris nisi ut aliquip ex ea. </p>
+                        <p>@Model.ProductDescription </p>
                     </div>
                     <ul class="pro__dtl__prize">
-                        <li class="old__prize">$15.21</li>
-                        <li>$10.00</li>
+                        <li class="old__prize">$@Model.SellPrice</li>
+                        <li>$@Model.CostPrice</li>
                     </ul>
                     <div class="pro__dtl__color">
                         <h2 class="title__5">Choose Colour</h2>

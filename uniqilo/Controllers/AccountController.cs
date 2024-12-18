@@ -14,6 +14,8 @@ namespace uniqilo.Controllers
     public class AccountController(UserManager<User> userManager, SignInManager<User> signInManager, IOptions<SmtpOptions> options) : Controller
     {
         readonly SmtpOptions _smtp = options.Value;
+        private string? returnUrl;
+
         bool isAuthenticaded => User.Identity?.IsAuthenticated ?? false;
 
         public IActionResult Register()
@@ -24,6 +26,7 @@ namespace uniqilo.Controllers
 
         public async Task<IActionResult> Register(UserCreateVM vm)
         {
+            if(isAuthenticaded) return RedirectToAction("Index" , "Home");
             if (!ModelState.IsValid)
                 return View();
             User user = new User
@@ -53,7 +56,7 @@ namespace uniqilo.Controllers
         [HttpPost]
 
 
-        public async Task<IActionResult> Login(LoginVM vm)
+        public async Task<IActionResult> Login(LoginVM vm, string? returnUrl)
         {
             if (!ModelState.IsValid) return View();
             User? user = null;
@@ -82,6 +85,13 @@ namespace uniqilo.Controllers
                     ModelState.AddModelError("", "wait until" + user.LockoutEnd!.Value.ToString("yyyy-MM-dd HH:mm:ss"));
                 }
                 return View();
+            }
+            if (string.IsNullOrEmpty(returnUrl))
+            {
+                if (await userManager.IsInRoleAsync(user, "Admin"))
+                {
+                    return RedirectToAction("Index", new { Controller = "Dashboard", Area = "Admin" });
+                }
             }
             return RedirectToAction("Index", "Home");
         }
